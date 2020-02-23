@@ -1,0 +1,118 @@
+body{
+  background-color: #ffffff;
+  text-align: center;
+  margin: 0;
+  line-height:2;
+}
+h1{
+  color:#66BFBF;
+font-family: 'Sacramento',cursive ;
+  font-size: 4.8rem;
+  margin:0;
+}
+h3{
+  color:#11999E;
+  font-family: 'Philosopher',sans-serif ;
+}
+h2{
+  font-family: 'Philosopher',sans-serif ;
+  color:#66BFBF;
+  font-size: 2.5;
+  font-weight:normal;
+}
+a{
+  color:#11999E;
+}
+p{
+  font-family:'Raleway',sans-serif;
+}
+hr{
+  border-style:none;
+  border-top-style:dotted;
+  border-width:6px;
+  width:6%;
+  border-color:#EAF6F6;
+}
+a{
+  margin: 20px;
+  font-family:'Philosopher',sans-serif ;
+  text-decoration:none;
+}
+.conteiner-1{
+  background-color: #effffb;
+  position: relative;
+  padding-top: 100px;
+}
+.cl-1{
+  position: absolute;
+  right:400px;
+  top: 50px;
+}
+.cl-2{
+  position: absolute;
+  left: 400px;
+  bottom:300px;
+}
+.skill-row{
+  width:50%;
+  margin: 100px auto 100px auto ;
+  text-align:left;
+
+}
+.profile{
+  padding-bottom: 10px;
+}
+#profilepic{
+  border-radius:100%;
+
+}
+.skill{
+  border-radius:100%;
+  width:25%;
+  float: left;
+  margin-right: 30px;
+}
+.sr-1{
+  width:25%;
+  float:right;
+  margin-left: 30px
+}
+.bottom-container{
+  background-color:#66BFBF;
+  margin:1rem auto;
+  padding:20px;
+
+}
+.conatactinfo{
+  width:30%;
+  margin:20px auto;
+}
+.myinfo{
+  width: 30%;
+  margin:auto;
+}
+.myButton {
+	background:linear-gradient(to bottom, #11f0f0 5%, #1dbcc2 100%);
+	background-color:#11f0f0;
+	border-radius:9px;
+	border:1px solid #07cee0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Philosopher',sans-serif ;
+	font-size:17px;
+	padding:5px 21px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #1dbcc2 5%, #11f0f0 100%);
+	background-color:#1dbcc2;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.copyright{
+  font-size: 0.75rem
+}
