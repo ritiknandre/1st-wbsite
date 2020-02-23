@@ -45,12 +45,12 @@ a{
 }
 .cl-1{
   position: absolute;
-  right:400px;
+  right:25%;
   top: 50px;
 }
 .cl-2{
   position: absolute;
-  left: 400px;
+  left: 25%;
   bottom:300px;
 }
 .skill-row{
